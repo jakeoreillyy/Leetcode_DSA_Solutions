@@ -1,6 +1,6 @@
 """
-FizzBuzz.py
-LeetCode problem 412
+Fizz_Buzz.py
+LeetCode problem: 412
 Difficulty: Easy
 Description: Returns a list of strings from 1 to n, replacing multiples of 3 with
              "Fizz", multiples of 5 with "Buzz", and multiples of both 3 ad 5 with
