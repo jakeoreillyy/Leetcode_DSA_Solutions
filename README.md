@@ -1,5 +1,5 @@
 # My LeetCode Solutions
-This repository contains my solutions to LeetCode problems that I have completed, written in Python.
+This project showcases my solutions to completed LeetCode problems, implemented in Python
 
 ## Structure
 - **Easy/** → Folder containing all easy problems  
@@ -7,6 +7,6 @@ This repository contains my solutions to LeetCode problems that I have completed
 - **Hard/** → Folder containing all hard problems  
 
 ## Progress
-- **Easy:** ✅ 1 problem  
+- **Easy:** ✅ 2 problems  
 - **Medium:** ❌ 0 problems  
 - **Hard:** ❌ 0 problems
